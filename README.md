@@ -22,7 +22,6 @@
 - ☕ Fueled by coffee.
 - 🌍  I'm based in Perú.
 - 💼 Systems Engineer V at Acid Labs UV.
-- 📍 Live in PE.
 - 👩‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
 
 <br>
